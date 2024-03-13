@@ -4,7 +4,5 @@ public class Produto {
     String fabricante;
     double preco;
 
-    
-
 
 }
